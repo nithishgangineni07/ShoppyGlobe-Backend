@@ -6,7 +6,7 @@ ShoppyGlobe is a backend API for an e-commerce platform, developed with Node.js,
 
 ## github repository
 
-🔗 [ShoppyGlobe github repository](https://github.com/WasiuzzamanAnsari/shoppyglobe-backend.git)
+🔗 [ShoppyGlobe github repository](https://github.com/nithishgangineni07/ShoppyGlobe-Backend.git)
 
 ---
 
@@ -53,7 +53,7 @@ ShoppyGlobe is a backend API for an e-commerce platform, developed with Node.js,
 ### 1. Clone the Repository
 
 ```bash
-git clone hhttps://github.com/WasiuzzamanAnsari/shoppyglobe-backend.git
+git clone https://github.com/nithishgangineni07/ShoppyGlobe-Backend.git
 cd ShoppyGlobe_backend
 ```
 
